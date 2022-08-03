@@ -1,0 +1,39 @@
+body {
+  background-color: #D6E2F0;
+  font-family: 'Outfit', sans-serif;
+}
+
+.white-box {
+  background-color: white;
+  height: 430px;
+  width: 270px;
+  margin: auto;
+  border-radius: 18px;
+}
+
+.center {
+  padding: 8%;
+}
+
+.qr-image {
+  height: 57%;
+  border-radius: 22px;
+  padding: 13px;
+}
+
+.intro {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 5px;
+  color: #1F3251;
+}
+
+.description {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 15px;
+  color: #7B879D;
+}
